@@ -8,6 +8,19 @@
 - 2000 mL water
 
 
+
+### Meals
+
+| Meal | Ingredient            | Quantity | Carbs (g) | Protein (g) | Fat (g) | Calories |
+| One  | black coffee          | 1 cup    |           |             |         |          |
+|      | water                 | 750 mL   |           |             |         |          |
+|      | Kirkland protein bar  | 2        | 46        | 42          | 24      | 440      |
+
+
+
+
+
+
 ### Meal One
 
 - 1 cup black coffee
@@ -44,11 +57,24 @@ Totals:
   - 7g protein
   - 10g fat
   - 120 calories
+- kimchi
 - 1/2 C sheep yogurt
   - 6g carbs
   - 7g protein
   - 6g fat
   - 100 calories
+- 1 Tbsp olive oil
+  - 13g fat
+  - 120 calories
+
+
+Totals:
+- 550 calories
+- 108g total
+- 40g carbs (37%)
+- 33g protein (33%)
+- 35g fat ()
+
 
 
 ### Meal Three
@@ -63,6 +89,8 @@ Totals:
   - 2 x 21g = 42g protein
   - 2 x 7g = 24g fat
   - 2 x 220 = 440 calories
+- 1 scoop vegan protein powder !!!
+
 - vitamins: b12, d3, magnesium
 
 

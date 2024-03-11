@@ -11,7 +11,9 @@
 
 ### Meals
 
+
 | Meal | Ingredient            | Quantity | Carbs (g) | Protein (g) | Fat (g) | Calories |
+|------|-----------------------|----------|-----------|-------------|---------|----------|
 | One  | black coffee          | 1 cup    |           |             |         |          |
 |      | water                 | 750 mL   |           |             |         |          |
 |      | Kirkland protein bar  | 2        | 46        | 42          | 24      | 440      |
